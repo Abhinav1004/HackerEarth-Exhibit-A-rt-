@@ -1,6 +1,8 @@
 # HackerEarth-Exhibit-A-rt-
 Gives solution of Hackerearth ML Challenge Exhibit A(rt)
 
+![](./images/exhibit_art_image.png)
+
 # Problem Statement
 
 ### Predict the cost to ship the sculptures
